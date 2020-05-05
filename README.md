@@ -2,8 +2,11 @@
 ![](https://www.alura.com.br/assets/api/share/curso-javascript-introducao.png)
 
 ## AULA 01
-    Introdução a linguagem
+    Introdução a linguagem.
     
 ## AULA 02
-    Tipos de Variáveis
+    Tipos de Variáveis.
+    
+## AULA 03
+    Trabalhando com muitos elementos.
 
