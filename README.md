@@ -3,4 +3,7 @@
 
 ## AULA 01
     Introdução a linguagem
+    
+## AULA 02
+    Tipos de Variáveis
 
