@@ -9,4 +9,9 @@
     
 ## AULA 03
     Trabalhando com muitos elementos.
-
+    
+## AULA 04
+    Condicionais e fluxo de execução.    
+    
+## AULA 05
+    Iterando sobre coleções.
