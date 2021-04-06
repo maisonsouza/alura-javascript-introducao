@@ -56,6 +56,44 @@ console.log (quociente);
 
 ✏ O resultado será o valor da variável soma + o valor da variável diferença.
 
+## AULA 02 - Trabalhando com variáveis.
+
+O nome das variáveis segue o padrão *Camel Case*
+
+✅ **Exemplo: trabalhandoComVariáveis.js**
+
+⚙ Javascript é case-sensitive
+
+📎 As palavras-chave são em minúsculo
+
+✅_Exemplo:_ Console.log ≠ console.log
+
+💭 Comentários são feitos com ```//``` no inicío da linha
+
+✅_Exemplo:_ // Isso é um comentário
+
+❌ Não declarar variáveis sem a palavra reservada  _const_ ou  _let_
+
+💡 Operações aritméticas podem ter precedência de operadores assim como na matemática.
+
+📌 Concatenar.
+
+✅ Exemplo: console.log("Concatenando texto com número "+10)
+
+NaN
+✏ Not a Number, acontece quando tentamos fazer uma operação com texto e números sem conversão.
+
+📌 Números fracionários são representados com . e não com ,
+
+✅ console.log(2.334)
+
+❌ console.log(2,334)
+
+👍 Nomeia as variáveis de forma descritiva
+
+
+
+
 
 
 
